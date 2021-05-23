@@ -1,6 +1,6 @@
 # unique-password-generator
 
-Javascript project to generate unqique passwords based on user input.
+Javascript project to generate unique passwords based on user input.
 
 
 ![image](https://user-images.githubusercontent.com/80538653/119270699-fb12ca80-bbcb-11eb-857b-62adc7aa7777.png)
